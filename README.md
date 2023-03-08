@@ -1,2 +1,4 @@
 # 2109116064_Praktikum-WEB
 2109116064_Selamat Riyandi
+
+Web yang saya nuat berjudul "Rational Geographic". Web tersebut saya rancang dengan halaman index berupa sebuah halaman sign-up yang mana di dalamnya termuat form pendaftaran akun (sign-up) dengan memanfaatkan berbagai jenis form yang telah diajarkan pada praktikum. Dari halaman login, seterusnya akan user berlanjut pada halaman home yang mana halaman home ini merupakan halaman utama dari website ini. Dari halaman home juga, user bisa beralih ke halaman-halaman lain yang ada pada website yang saya rancang. Selain sign-Up dan Home, terdapat pula halaman Content yang berisi seputar konten utama dariwebsite Rasional Geographic yang akan membahas mengenai dunia hewan dan biologis alam. Selanjutnya terdapat halaman About Us yang berisi seputar informasi dari profile Rasional Geographic.
